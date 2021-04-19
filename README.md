@@ -2,10 +2,6 @@
 
 𝗜'𝗺 [Vivek](https://github.com/VIVEK-TP)
 
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vivek-tp)](https://github.com/vivek-tp)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vivek-TP)
-
-
 ### About 🙋🏻‍♂️
 ```python
 Name = "Vivek"
