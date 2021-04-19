@@ -8,11 +8,12 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Cyber Boy Ayush"
+Name = "Vivek"
 who_i_am = ['Coding = ❣️']
-Age = "19"
+Age = "15"
 Country = "🇮🇳"
 ```
+
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
