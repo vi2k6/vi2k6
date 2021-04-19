@@ -12,7 +12,7 @@ Country = "🇮🇳"
 #### 
 [![telegram badge](https://img.shields.io/badge/@Vivek_Kerala-30302f?style=for-the-badge&logo=telegram)](https://t.me/Vivek_Kerala)
 [![mailid badge](https://img.shields.io/badge/Vivek-30302f?style=for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vivek&label=Profile%20Views&color=orange&style=flat-square" alt="Vivek" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
 ## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
 
