@@ -67,7 +67,7 @@ Follow Me On:
 <a href="https://github.com/VIVEK"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://about.me/Vivek_Kerala"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.ME/VIVEKTVP"><img src="https://img.shields.io/badge/InstaGRAM-VIVEKTVP-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 
 </details>
@@ -84,6 +84,8 @@ Follow Me On:
 <br />
 
 #####
+
+
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
