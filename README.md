@@ -83,9 +83,7 @@ Follow Me On:
 <br />
 <br />
 
-## Github Trophy🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=VIVEK-TP&theme=onedark)](https://github.com/VIVEK-TP)
-
+#####
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
