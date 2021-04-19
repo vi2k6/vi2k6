@@ -1,4 +1,4 @@
-# Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hello 👋🏻
 
 𝗜'𝗺 [Vivek](https://github.com/VIVEK-TP)
 
@@ -61,16 +61,13 @@ Country = "🇮🇳"
 Follow Me On:
 
 <p align="left">
-<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Join%20Our%20Channel-VK PROJECTS-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VIVEK"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://about.me/Vivek_Kerala"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 
 </details>
