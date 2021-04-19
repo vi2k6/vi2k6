@@ -10,9 +10,9 @@
 <img align="center" src="./assets/about.png?raw=true"/>
 
 - 𝑰 𝒂𝒎 𝒂 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : School ❤
-- 🔭 I’m currently working on Making some unique things with Python 😋 at [BotDunia](https://t.me/BotDunia)
+- 🔭 I’m currently working on Making some unique things with Python 😋
 - 🌱 I’m currently learning Python as an Hobby !!!
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-18-blue) Teen 😄
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-15-blue) 😄
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
 
