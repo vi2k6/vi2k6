@@ -20,7 +20,7 @@ Country = "🇮🇳"
 
 
 
-👋🏻 I'm [Vivek](https://telegram.me/VIVEK_KERALA),
+**👋🏻 I'm [Vivek](https://telegram.me/VIVEK_KERALA),
 
 - 🔭 I’m currently working with Python
 
@@ -34,7 +34,7 @@ Country = "🇮🇳"
 
 - 💬 Mail Me : [Here](mailto:vivek.tp@telegmail.com)
 
-- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)
+- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
 
 ## My GitHub Stats💛
 
