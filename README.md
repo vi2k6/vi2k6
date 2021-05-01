@@ -20,21 +20,21 @@ Country = "🇮🇳"
 
 
 
-**👋🏻 I'm [Vivek](https://telegram.me/VIVEK_KERALA),
+**👋🏻 I'm [Vivek](https://telegram.me/VIVEK_KERALA),**
 
-- 🔭 I’m currently working with Python
+**- 🔭 I’m currently working with Python**
 
-- 🌱 I’m currently studying
+**- 🌱 I’m currently studying**
 
-- 👯 I’m looking to collaborate on project
+**- 👯 I’m looking to collaborate on project**
 
-- 💬 Ask me about Python/PHP
+**- 💬 Ask me about Python/PHP**
 
-- 📫 How to reach me: [Vivek⚡](https://telegram.me/Vivek_KERALA)
+**- 📫 How to reach me: [Vivek⚡](https://telegram.me/Vivek_KERALA)**
 
-- 💬 Mail Me : [Here](mailto:vivek.tp@telegmail.com)
+**- 💬 Mail Me : [Here](mailto:vivek.tp@telegmail.com)**
 
-- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
+**- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
 
 ## My GitHub Stats💛
 
