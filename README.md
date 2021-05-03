@@ -50,10 +50,10 @@ Country = "🇮🇳"
 
 </details>
     
-## Follow Me🔥:
+## Follow Me🔥
 
 <details>
-<summary>Follow Me On My Social Platform ✌️</summary>
+<summary>Follow Me On My Social Platform </summary>
 <br>
   <p align="left">
 <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Join%20Our%20Channel-VK PROJECTS-darkblue?style=for-the-badge&logo=telegram"></a>
