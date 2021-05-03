@@ -37,10 +37,6 @@ Country = "🇮🇳"
 **- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
 
 ## My GitHub Stats💛
-
-<details>
-<summary>My GitHub Stats💛</summary>
-<br>
     
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
