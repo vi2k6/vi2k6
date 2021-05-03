@@ -44,7 +44,7 @@ Country = "🇮🇳"
     
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-TP&layout=compact&theme=radical)](https://github.com/VIVEK-TP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-TP&layout=compact&theme=WHITE)](https://github.com/VIVEK-TP)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
