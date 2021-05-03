@@ -46,19 +46,15 @@ Country = "🇮🇳"
     
 ## Follow Me🔥
 
-<details>
-<summary>Follow Me On My Social Platform </summary>
-<br>
-  <p align="left">
-<a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Join%20Our%20Channel-VK PROJECTS-darkblue?style=for-the-badge&logo=telegram"></a>
+---
+
+<p align="center">
+  <a href="https://instagram.com/VIVEKTVP"><img src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://github.com/Vivek-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
-<p align="left">
-<a href="https://github.com/VIVEK"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://instagram.ME/VIVEKTP_"<img src="https://img.shields.io/badge/InstaGRAM-VIVEKTVP-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
-</details>
+
+---
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-Paypal-orange?style=for-the-badge)](https://paypal.me/VIVEKTVP)
