@@ -67,7 +67,6 @@ Country = "🇮🇳"
 </details>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-Paypal-orange?style=for-the-badge)](https://paypal.me/VIVEKTVP)
   <a href="https://paypal.me/VIVEKTVP"><img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal" alt="PayPal"></a>
 </p>
 ### Languages and Tools I Love❤️
