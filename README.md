@@ -67,8 +67,8 @@ Country = "🇮🇳"
 </details>
 
 ## Donate Me:
-  <a href="https://paypal.me/VIVEKTVP"><img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal" alt="PayPal"></a>
-</p>
+[![Donate](https://img.shields.io/badge/Donate%20Us-Paypal-orange?style=for-the-badge)](https://paypal.me/VIVEKTVP)
+
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
