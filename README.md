@@ -55,7 +55,7 @@ Country = "🇮🇳"
 <details>
 <summary>Follow Me On My Social Platform ✌️</summary>
 <br>
-  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
   <a href="https://telegram.me/VIVEK_KERALA"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
