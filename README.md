@@ -55,8 +55,14 @@ Country = "🇮🇳"
 <details>
 <summary>Follow Me On My Social Platform ✌️</summary>
 <br>
-  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://telegram.me/VIVEK_KERALA"><img src="https://img.shields.io/badge/Telegram-BLACK?&style=for-the-badge&logo=telegram&" alt="Telegram"></a>
+  <p align="left">
+<a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Join%20Our%20Channel-VK PROJECTS-darkblue?style=for-the-badge&logo=telegram"></a>
+</p>
+<p align="left">
+<a href="https://github.com/VIVEK"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="left">
+<a href="https://instagram.ME/VIVEKTP_"<img src="https://img.shields.io/badge/InstaGRAM-VIVEKTVP-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 </details>
 
