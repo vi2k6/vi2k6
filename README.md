@@ -42,7 +42,7 @@ Country = "🇮🇳"
 <summary>My GitHub Stats💛</summary>
 <br>
     
-![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=highcontrast)
+![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-TP&layout=compact&theme=radical)](https://github.com/VIVEK-TP)
 
