@@ -38,6 +38,7 @@ Country = "🇮🇳"
 
 **- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
 
+</details>
 </br>
 
 ## My GitHub Stats💛
