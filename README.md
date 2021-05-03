@@ -19,29 +19,7 @@ Country = "🇮🇳"
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-</summary> fun facts <summary>
-<br>
-
-**👋🏻 I'm [Vivek](https://telegram.me/VIVEK_KERALA),**
-
-**- 🔭 I’m currently working with Python**
-
-**- 🌱 I’m currently studying**
-
-**- 👯 I’m looking to collaborate on project**
-
-**- 💬 Ask me about Python**
-
-**- 📫 How to reach me: [Vivek⚡](https://telegram.me/Vivek_KERALA)**
-
-**- 💬 Mail Me : [Here](mailto:vivek.tp@telegmail.com)**
-
-**- 👯 Join Telegram Channel : [Here](https://t.me/VKPROJECTS)**
-
-</details>
-</br>
-
-## My GitHub Stats💛
+### My GitHub Stats💛
 ---
    
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
@@ -52,7 +30,7 @@ Country = "🇮🇳"
 
 --- 
  
-## Follow Me🔥
+### Follow Me🔥
 
 ---
 
