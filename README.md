@@ -56,7 +56,8 @@ Country = "🇮🇳"
 <summary>Follow Me On My Social Platform ✌️</summary>
 <br>
 Follow Me On:
-
+  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="https://telegram.me/VIVEK_KERALA"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
 <p align="left">
 <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Join%20Our%20Channel-VK PROJECTS-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
@@ -71,7 +72,8 @@ Follow Me On:
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-Paypal-orange?style=for-the-badge)](https://paypal.me/VIVEKTVP)
-
+  <a href="https://paypal.me/VIVEKTVP"><img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal" alt="PayPal"></a>
+</p>
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
