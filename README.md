@@ -40,7 +40,7 @@ Country = "🇮🇳"
   <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
 
-### Languages and Tools I Love❤️
+### Languages and Tools
 
 [<img align="left" alt="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="GitHub" width="23px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
