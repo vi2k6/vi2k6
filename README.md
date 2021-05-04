@@ -14,8 +14,6 @@ Country = "🇮🇳"
 [![mailid badge](https://img.shields.io/badge/Vivek-30302f?style=for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 
 ### My GitHub Stats💛
 ---
