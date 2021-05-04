@@ -34,15 +34,11 @@ Country = "🇮🇳"
  
 ### Follow Me🔥
 
----
-
 <p align="center">
   <a href="https://instagram.com/VIVEKTVP"><img src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram" alt="Instagram"></a>
   <a href="https://github.com/Vivek-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
   <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
-
----
 
 ### Donate Me:
 <a href="https://paypal.me/VIVEKTVP"><img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal" alt="PayPal"></a>
