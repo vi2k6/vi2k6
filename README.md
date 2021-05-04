@@ -38,9 +38,9 @@ Country = "🇮🇳"
 
 <h3 align="center">Languages and Tools:</h3>
 
-[<img align="center" alt="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
+[<img align="left" alt="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="center" alt="GitHub" width="23px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="center" alt="Heroku" width="23px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+[<img align="right" alt="Heroku" width="23px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
 <br />
 <br />
