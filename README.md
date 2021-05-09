@@ -1,6 +1,8 @@
 # Hello 👋🏻
 
-𝗜'𝗺 [Vivek](https://github.com/VIVEK-TP)
+**I Am [Vivek](https://github.com/VIVEK-TP)**
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p> 
 
 ### About 🙋🏻‍♂️
 ```python
