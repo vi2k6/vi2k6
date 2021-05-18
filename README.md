@@ -27,7 +27,7 @@ Country = "🇮🇳"
    
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-TP&layout=compact&theme=WHITE)](https://github.com/VIVEK-TP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-TP&layout=compact&theme=WHITE)](https://github.com/VIVEK-TP)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
 
