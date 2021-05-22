@@ -37,13 +37,10 @@ Country = "🇮🇳"
  
 ### Follow Me🔥
 
-[![github](https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Vivek-TP)&nbsp;
-[![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Vivek_Kerala)
-
 <p align="center">
-  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github" alt="Instagram"></a>
-  <a href="https://github.com/Vivek-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
-  <a href="https://telegram.me/VKPROJECTS"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github" alt="github"></a>
+  <a href="https://t.me/Vivek_Kerala"><https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram" alt="Instagram"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
