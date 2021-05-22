@@ -18,7 +18,7 @@ Country = "🇮🇳"
 ```
 #### 
 [![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/VivEK_Kerala)&nbsp;
-[![Mail badge](https://img.shields.io/badge/Vivek-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)&nbsp;
+[![Mail badge](https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)&nbsp;
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Vivek-TP)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
