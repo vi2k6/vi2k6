@@ -37,6 +37,9 @@ Country = "🇮🇳"
  
 ### Follow Me🔥
 
+[![github](https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://github.com/Vivek-TP)&nbsp;
+[![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Vivek_Kerala)
+
 <p align="center">
   <a href="https://instagram.com/VIVEKTVP"><img src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram" alt="Instagram"></a>
   <a href="https://github.com/Vivek-TP"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
