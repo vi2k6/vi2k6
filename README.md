@@ -25,7 +25,7 @@ Country = "🇮🇳"
 ### My GitHub Stats💛
 ---
    
-![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=dark)
+![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-TP&layout=compact&theme=WHITE)](https://github.com/Vivek-TP)
 
@@ -52,8 +52,3 @@ Country = "🇮🇳"
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"/>
 </p>
-
-
-
-
-
