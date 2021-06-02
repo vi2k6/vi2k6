@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/vivek-tp/Vivek-TP/blob/main/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
-     <img height="200px" src="https://github.com/vivek-tp/Vivek-TP/blob/main/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
+     <img height="150px" src="https://github.com/vivek-tp/Vivek-TP/blob/main/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
   </a>
 </p>
 
