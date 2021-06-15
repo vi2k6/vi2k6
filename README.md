@@ -2,7 +2,7 @@
 
 **I Am [Vivek](https://github.com/VIVEK-TP)**
 
-### About Me
+### About Me:
 
 - Currently learning Python, JavaScript & Bash.
 - I Am 10th Standard Student
