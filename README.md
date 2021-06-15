@@ -10,12 +10,10 @@
 </p>
 
 ### About 🙋🏻‍♂️
-```python
-Name = "Vivek"
-who_i_am = ['Coding = ❣️']
-Age = "15"
-Country = "🇮🇳"
-```
+- Currently learning Python, JavaScript & Bash.
+- I Am 10th Standard Student
+- I Love Coding
+
 #### 
 [![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/VivEK_Kerala)&nbsp;
 [![Mail badge](https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)&nbsp;
