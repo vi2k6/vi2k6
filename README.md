@@ -17,7 +17,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
 ### My GitHub Stats💛
----
    
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
 
@@ -29,12 +28,6 @@
 
 </details>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
-
-</details>
-
---- 
- 
 ### Follow Me🔥
 
 <p align="center">
@@ -54,6 +47,10 @@
   <img alt="python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
+### Contribution Graph:
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"/>
