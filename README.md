@@ -4,7 +4,7 @@
 
 ### About Me:
 
-- Currently learning Python, JavaScript & Bash.
+- Currently learning Python, HTML & Telethon.
 - I Am 10th Standard Student
 - I Love Coding
 - Looking Collab On Github
