@@ -11,8 +11,12 @@
 
 ### About 🙋🏻‍♂️
 - Currently learning Python, JavaScript & Bash.
+
 - I Am 10th Standard Student
+
 - I Love Coding
+
+- Looking Collab On Github
 
 #### 
 [![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/VivEK_Kerala)&nbsp;
