@@ -2,14 +2,8 @@
 
 **I Am [Vivek](https://github.com/VIVEK-TP)**
 
+### About Me
 
-<p align="center">
-  <a href="https://github.com/vivek-tp/Vivek-TP/blob/main/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
-     <img height="150px" src="https://github.com/vivek-tp/Vivek-TP/blob/main/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
-  </a>
-</p>
-
-### About 🙋🏻‍♂️
 - Currently learning Python, JavaScript & Bash.
 
 - I Am 10th Standard Student
