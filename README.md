@@ -60,13 +60,6 @@
 </details>
 
 <details>
-    <summary>Tools</summary>
-    <br/>
-<p align="left"> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
-
-</details>
-
-<details>
     <summary>Servers & Hosts</summary>
     <br/>
 <p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/aws.svg" alt="aws" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> </p>
