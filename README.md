@@ -15,9 +15,6 @@
     - Hindi
 
 #### 
-[![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/VivEK_Kerala)&nbsp;
-[![Mail badge](https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)&nbsp;
-[![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Vivek-TP)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
 ### My GitHub Stats💛
@@ -38,6 +35,9 @@
   <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github" alt="github"></a>
   <a href="https://t.me/Vivek_Kerala"><img src="https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Vivek-660066?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram" alt="Instagram"></a>
+[![Telegram](https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/VivEK_Kerala)&nbsp;
+[![Mail badge](https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail)](mailto:vivek.tp@telegmail.com)&nbsp;
+[![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Vivek-TP)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
