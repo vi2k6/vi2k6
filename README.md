@@ -36,8 +36,9 @@
   <a href="https://t.me/Vivek_Kerala"><img src="https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Vivek-660066?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram" alt="Instagram"></a>
   <a href="https://t.me/vivek_kerala"><img src="https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram" alt="telegram"></a>
-  <a href="mailto:vivek.tp@telegmail.com"><img src"https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail" alt="gmail"></a>
+  <a href="t.me"><img src"https://img.shields.io/badge/Vivek-ff0000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=gmail" alt="gmail"></a>
   <a href="https://github.com/vivek-tp"><img src"https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github" alt="github"</a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
