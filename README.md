@@ -34,12 +34,6 @@
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VIVEK_KERALA) [![Github](https://img.shields.io/badge/github-ff0000.svg?style=for-the-badge&logo=github)](https://github.com/VIVEK-TP) [![Instagram](https://img.shields.io/badge/instagram-660066.svg?style=for-the-badge&logo=instagram)](https://instagram.me/vivektvp)
 <br>
 
-<p align="center">
-  <a href="https://github.com/VIVEK-TP"><img src="https://img.shields.io/badge/Vivek-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github" alt="github"></a>
-  <a href="https://t.me/Vivek_Kerala"><img src="https://img.shields.io/badge/Vivek-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Vivek-660066?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram" alt="Instagram"></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <details>
