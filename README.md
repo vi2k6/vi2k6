@@ -31,9 +31,7 @@
 
 ### Follow Me🔥
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VIVEK_KERALA) 
-[![Github](https://img.shields.io/badge/github-ff0000.svg?style=for-the-badge&logo=github)](https://github.com/VIVEK-TP) 
-[![Instagram](https://img.shields.io/badge/instagram-660066.svg?style=for-the-badge&logo=instagram)](https://instagram.me/vivektvp)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VIVEK_KERALA) [![Github](https://img.shields.io/badge/github-ff0000.svg?style=for-the-badge&logo=github)](https://github.com/VIVEK-TP) [![Instagram](https://img.shields.io/badge/instagram-660066.svg?style=for-the-badge&logo=instagram)](https://instagram.me/vivektvp)
 <br>
 
 <p align="center">
