@@ -9,6 +9,7 @@
 - I Love Coding
 - Looking Collab On Github
 - Making some Telegram Bots & other Tools.
+- Bot, Web & App Developer
 - Speaking Languages:
     - English
     - Malayalam
