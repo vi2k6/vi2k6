@@ -48,6 +48,4 @@
 </p>
 
 ### 💰 Support Me:
-<a href="https://ko-fi.com/vivektp"><img height="30" style="border:0px;height:30px;" align="left" alt="vivek" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a> 
-
-<a href="https://www.paypal.me/vivektvp"><img height="30" style="border:0px;height:30px;" align="centre" alt="vivek" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+<a href="https://ko-fi.com/vivektp"><img height="30" style="border:0px;height:30px;" align="left" alt="vivek" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a> <a href="https://www.paypal.me/vivektvp"><img height="30" style="border:0px;height:30px;" align="centre" alt="vivek" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
