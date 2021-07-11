@@ -7,13 +7,6 @@
 - Currently learning Python, HTML & Telethon.
 - I Am 10th Standard Student
 - I Love Coding
-- Looking Collab On Github
-- Making some Telegram Bots & other Tools.
-- Bot, Web & App Developer
-- Speaking Languages:
-    - English
-    - Malayalam
-    - Hindi
 
 #### 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
