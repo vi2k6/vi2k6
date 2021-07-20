@@ -2,24 +2,12 @@
 
 <p>I'm 15 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 
-### About Me:
-
-- Currently learning Python, HTML & Telethon.
-- I Am 10th Standard Student
-- I Love Coding
-
 #### 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
 ### 🐙 GitHub Stats
    
 ![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
-
-<details>
-    <summary>Top Languages</summary>
-    <br/>
-
-</details>
 
 ### ⚡ Follow Me
 
