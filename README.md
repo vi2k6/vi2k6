@@ -1,6 +1,6 @@
 # Hey I'm Vivek
 
-<p>I'm 15 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
+<p>I'm 15 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">India</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 
 #### 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
