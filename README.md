@@ -19,8 +19,6 @@
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-TP)](https://github.com/VIVEK-TP)
-
 </details>
 
 ### ⚡ Follow Me
@@ -36,8 +34,11 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
 
-### 💰 Support Me:
-<a href="https://ko-fi.com/vivektp"><img height="30" style="border:0px;height:30px;" align="center" alt="vivek" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a> <a href="https://www.paypal.me/vivektvp"><img height="30" style="border:0px;height:30px;" align="center" alt="vivek" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+<h2>☕️ Coffee? yes!</h2>
+<p>
+    <a href="https://www.buymeacoffee.com/vivektp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+    <a href="https://paypal.me/vivektvp"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"/>
