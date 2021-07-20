@@ -34,7 +34,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
 
-<h2>☕️ Coffee? yes!</h2>
+### ☕️ Coffee? yes!
 <p>
     <a href="https://www.buymeacoffee.com/vivektp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
     <a href="https://paypal.me/vivektvp"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
