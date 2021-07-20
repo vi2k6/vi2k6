@@ -1,6 +1,6 @@
-# Hello 👋🏻
+# Hey I'm Vivek
 
-**I Am [Vivek](https://github.com/VIVEK-TP)**
+<p>I'm 15 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 
 ### About Me:
 
