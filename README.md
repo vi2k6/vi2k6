@@ -20,7 +20,12 @@
 
 ### 📊 Contribution Graph:
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-TP&" alt="VIVEK-TP" /></p>
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=HeimanPictures&custom_title=Contribution+Graph&theme=xcode"
+    />
+</p>
 
 ### ☕️ Coffee? yes!
 <p>
