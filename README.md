@@ -32,7 +32,3 @@
     <a href="https://www.buymeacoffee.com/vivektp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
     <a href="https://paypal.me/vivektvp"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
 </p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"/>
-</p>
