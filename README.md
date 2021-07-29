@@ -6,8 +6,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
 
 ### 🐙 GitHub Stats
-   
-![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&include_all_commits=true&count_private=true&theme=white)
+
+![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&show_icons=true&theme=midnight-purple)
 
 ### ⚡ Follow Me
 
