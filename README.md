@@ -7,7 +7,7 @@
 
 ### 🐙 GitHub Stats
 
-![Vivek Git Stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP&show_icons=true&theme=midnight-purple)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIVEK-TP&border_color=2e4058)
 
 ### ⚡ Follow Me
 
