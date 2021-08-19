@@ -15,6 +15,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 [<img align="left" alt="Connect on Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/VIVEK-TP)
 [<img align="left" alt="Connect on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.me/vivektvp)
 [<img align="left" alt="Vivek's personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.vivektp.ga)
+[<img align="left" alt="Connect On Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://https://wa.me/message/MCZY53XBI6HON1)
 </br>
 
 ### Languages and Tools :
