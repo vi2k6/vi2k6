@@ -11,7 +11,7 @@
 
 ### ⚡ Follow Me
 
-[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][(https://t.me/VIVEK_KERALA)]
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/VIVEK_KERALA)
 [<img align="left" alt="Follow on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter-url]
 [<img align="left" alt="PierreHenry's personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VIVEK_KERALA) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/VIVEK-TP) [![Instagram](https://img.shields.io/badge/instagram-pink.svg?style=for-the-badge&logo=instagram)](https://instagram.me/vivektvp)
