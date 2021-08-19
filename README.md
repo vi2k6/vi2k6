@@ -22,7 +22,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 [<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 [<img align="left" alt="Pyrogram" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pyrogram/pyrogram.jpg" />](https://github.com/pyrogram/pyrogram)
-
+</br>
 ### 📊 Contribution Graph:
 
 <p align="center">
