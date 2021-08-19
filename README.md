@@ -7,7 +7,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 
 ### 🐙 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIVEK-TP&border_color=2e4058)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP)
 
 ### ⚡ Follow Me
 
