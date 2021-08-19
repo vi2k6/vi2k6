@@ -1,6 +1,6 @@
 # Hey I'm Vivek <img src="./assets/wave.gif" width="30px">
 
-<p>I'm 16 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">India</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
+I'm 16 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">India</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!
 
 #### 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
@@ -17,7 +17,12 @@
 </br>
 ### Languages and Tools :
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/git.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" alt="pyrogram" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/aws.svg" alt="aws" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/heroku.svg" alt="heroku" width="30" height="30"/> </a> </p>
+[<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="Html" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/html.png" />](https://html.com)
+[<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.png" />](https://www.python.org/)
+[<img align="left" alt="Terminal" width="25px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
+[<img align="left" alt="Pyrogram" width="25px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.jpg" />](https://github.com/pyrogram/pyrogram)
+[<img align="left" alt="ItnelliJ-Idea" width="45px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/intellij_idea.jpg" />](https://www.jetbrains.com/idea/)
 
 ### 📊 Contribution Graph:
 
