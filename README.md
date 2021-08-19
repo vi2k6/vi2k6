@@ -9,7 +9,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP)
 
-### ⚡ Follow Me
+### ⚡ Follow Me :
 
 [<img align="left" alt="Connect on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/VIVEK_KERALA)
 [<img align="left" alt="Connect on Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/VIVEK-TP)
@@ -25,6 +25,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 [<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 [<img align="left" alt="Pyrogram" width="25px" src="https://avatars.githubusercontent.com/u/34474300?s=200&v=4" />](https://github.com/pyrogram/pyrogram)
 </br>
+
 ### Contribution Graph:
 
 <p align="center">
