@@ -16,6 +16,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 [<img align="left" alt="Connect on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.me/vivektvp)
 [<img align="left" alt="Vivek's personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.vivektp.ga)
 </br>
+
 ### Languages and Tools :
 
 [<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
@@ -24,7 +25,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 [<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 [<img align="left" alt="Pyrogram" width="25px" src="https://avatars.githubusercontent.com/u/34474300?s=200&v=4" />](https://github.com/pyrogram/pyrogram)
 </br>
-### 📊 Contribution Graph:
+### Contribution Graph:
 
 <p align="center">
     <img
