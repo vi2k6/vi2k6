@@ -28,7 +28,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 <p align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=HeimanPictures&custom_title=Contribution+Graph&theme=xcode"
+        src="https://activity-graph.herokuapp.com/graph?username=Vivek-TP&custom_title=Contribution+Graph&theme=Default"
     />
 </p>
 
