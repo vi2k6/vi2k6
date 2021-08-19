@@ -8,7 +8,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 ### 🐙 GitHub Stats
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-TP)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-TP)]
+
 ### ⚡ Follow Me
 
 [<img align="left" alt="Connect on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/VIVEK_KERALA)
