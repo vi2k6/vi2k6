@@ -18,7 +18,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 ### Languages and Tools :
 
 [<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Html" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/html.png" />](https://html.com)
+[<img align="left" alt="Html" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.com)
 [<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.png" />](https://www.python.org/)
 [<img align="left" alt="Terminal" width="25px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 [<img align="left" alt="Pyrogram" width="25px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.jpg" />](https://github.com/pyrogram/pyrogram)
