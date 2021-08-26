@@ -11,7 +11,7 @@ I'm 16 y.o Senior High School student from <strong><a href="https://www.google.c
 
 ### ⚡ Follow Me :
 
-[<img align="left" alt="Connect on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/VIVEK_KERALA)
+[<img align="left" alt="Connect on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/Xnocy)
 [<img align="left" alt="Connect on Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/VIVEK-TP)
 [<img align="left" alt="Connect on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.me/vivektvp)
 [<img align="left" alt="Vivek's personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.vivektp.ga)
