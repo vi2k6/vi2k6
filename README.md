@@ -1,6 +1,6 @@
 # Hey I'm Vivek <img src="./assets/wave.gif" width="30px">
 
-I'm 16 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">India</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!
+I'm a computer commerce student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">India</a></strong>. I'm working on some hobby projects and trying to learn new stuffs! Now Working on HLL (High Level Language)
 
 #### 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VIVEK-TP)
