@@ -27,15 +27,6 @@ I'm a computer commerce student from <strong><a href="https://www.google.com/tra
 [<img align="left" alt="Pyrogram" width="25px" src="https://avatars.githubusercontent.com/u/34474300?s=200&v=4" />](https://github.com/pyrogram/pyrogram)
 </br>
 
-### Contribution Graph:
-
-<p align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=Vivek-TP&custom_title=Contribution+Graph&theme=xcode"
-    />
-</p>
-
 ### ☕️ Coffee? yes!
 <p>
     <a href="https://www.buymeacoffee.com/vivektp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
