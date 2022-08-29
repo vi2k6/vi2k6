@@ -26,23 +26,9 @@
 </details>
 
 <details>
-    <summary>Libraries</summary>
-    <br/>
-<p align="left"> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" alt="pyrogram" width="50" height="50"/> </a> </p>
-
-</details>
-
-<details>
     <summary>Fav Databases</summary>
     <br/>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-</details>
-
-<details>
-    <summary>Tools</summary>
-    <br/>
-<p align="left"> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> </p>
 
 </details>
 
@@ -73,7 +59,7 @@
 [![Vivek2k6](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 
 ### Donate
-<a href="https://buymeacoffee.com/vivektp"><img src="./assets/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png" width="30px"></a>
+<a href="https://buymeacoffee.com/vivektp"><img src="./assets/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png" width="70px"></a>
 
 ### Support Group:
 <a href="https://t.me/DevsChats"><img src="https://img.shields.io/badge/Bot%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
