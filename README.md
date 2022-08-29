@@ -73,7 +73,7 @@
 [![Vivek2k6](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 
 ### Donate
-<a href="https://buymeacoffee.com/vivektp"><img src="./assets/wave.gif" width="30px"></a>
+<a href="https://buymeacoffee.com/vivektp"><img src="./assets/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png" width="30px"></a>
 
 ### Support Group:
 <a href="https://t.me/DevsChats"><img src="https://img.shields.io/badge/Bot%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
