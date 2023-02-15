@@ -39,20 +39,6 @@ I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making 
 
 ### Contribution Graph:
 
-<p align="center">
-  <a href="https://github.com/vivek2k6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2k6#version3"/>
-  </a>
-</p>
-<a href="https://github.com/vivek2k6"><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vivek2k6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<details>
-  <summary>Activity Metrics</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/vivek2k6"><img src="https://metrics.lecoq.io/vivek2k6?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="vivek2k6" /></a> </p>
-
-</details>
-
 ### Donate
 <a href="https://buymeacoffee.com/vivektp"><img src="./assets/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png" width="150px"></a>
 
