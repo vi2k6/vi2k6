@@ -6,13 +6,6 @@
 
 I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making Bots On Telegram.I Use This Github To Coding For Developing Bots And Webs.
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/vivek2k6"><img src="https://github-profile-trophy.vercel.app/?username=vivek2k6" alt="vivek2k6" /></a> </p>
-
-</details>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2k6&show_icons=true&locale=en" alt="vivek2k6" /></p>
 
 <details>
@@ -51,7 +44,7 @@ I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2k6#version3"/>
   </a>
 </p>
-<a href="https://github.com/vivek2k6"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vivek2k6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vivek2k6"><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vivek2k6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
   <summary>Activity Metrics</summary>
@@ -60,17 +53,8 @@ I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making 
 
 </details>
 
-### Follow on:
-[![Vivek2k6](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
-
 ### Donate
 <a href="https://buymeacoffee.com/vivektp"><img src="./assets/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67.png" width="150px"></a>
-
-### Support Group:
-<a href="https://t.me/DevsChats"><img src="https://img.shields.io/badge/Bot%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Telegram Bots Channel:
-<a href="https://t.me/MyOwnBots"><img src="https://img.shields.io/badge/My%20Own%20Bots-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 [telegram]: https://t.me/vivek2k6
 [Buy Me A Coffee]: https://buymeacoffee.com/vivektp
