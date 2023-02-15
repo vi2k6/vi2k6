@@ -2,7 +2,7 @@
 
 ###
 
-- ![Profile views](https://gpvc.arturio.dev/Vivek2k6)
+![Profile views](https://gpvc.arturio.dev/Vivek2k6)
 
 I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making Bots On Telegram.I Use This Github To Coding For Developing Bots And Webs.
 
