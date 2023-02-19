@@ -24,13 +24,6 @@ I'm Vivek, An Student From 🇮🇳india.Developing Bots And Webs.I Love Making 
 </details>
 
 <details>
-    <summary>Fav Databases</summary>
-    <br/>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-</details>
-
-<details>
     <summary>Servers & Hosts</summary>
     <br/>
 <p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> </p>
