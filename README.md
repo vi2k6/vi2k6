@@ -1,4 +1,4 @@
-# Hey <img src="./assets/wave.gif" width="30px">, I'm Vivek
+# <img src="./assets/wave.gif" width="30px"> Hey, I'm Vivek
 
 ###
 
