@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Vivek2k6)
 
-<b>I'm Vivek,</b> An Student From 🇮🇳india.\nDeveloping Bots And Webs.\tI Love Making Bots On Telegram.I Use This Github To Coding For Developing Bots And Webs.
+<b>I'm Vivek,</b> An Student From 🇮🇳india.\nDeveloping Bots And Webs.I Love Making Bots On Telegram.I Use This Github To Coding For Developing Bots And Webs.\nI mostly use <a href"https://github.com/">Github</a> For Making My Telegram Bots And I Mostly Use <a href"https://heroku.com/">Heroku</a> For Hosting My Bots.\n You can Visit My Website To See My Telegram Account/Channel/Bots And For Donations - <a href"https://vivektp.me/">vivektp.me</a>.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2k6&show_icons=true&locale=en" alt="vivek2k6" /></p>
 
