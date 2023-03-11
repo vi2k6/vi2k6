@@ -7,9 +7,7 @@ Developing Bots And Webs.I Love Making Bots On Telegram.I Use This Github To Cod
 I mostly use [Github](https://github.com) For Making My Telegram Bots And I Mostly Use [Heroku](https://heroku.com/) For Hosting My Bots.
 You can Visit My Website To See My Telegram Account/Channel/Bots And For Donations - [vivektp.me](https://vivektp.me/).
 
-![Profile views](https://gpvc.arturio.dev/vi2k6)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2k6&show_icons=true&locale=en" alt="vivek2k6" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vi2k6&show_icons=true&locale=en" alt="vivek2k6" /></p>
 
 <details>
     <summary>Top Languages</summary>
